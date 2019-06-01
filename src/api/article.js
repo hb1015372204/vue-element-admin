@@ -39,3 +39,5 @@ export function updateArticle(data) {
     data
   })
 }
+
+export function test(){}
